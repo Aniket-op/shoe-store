@@ -1,0 +1,6 @@
+{
+  "name": "Nike-inspired Sneaker Store",
+  "description": "A premium, modern, responsive e-commerce website prototype for a shoe brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
