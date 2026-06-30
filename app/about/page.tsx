@@ -48,7 +48,7 @@ export default function About() {
                 <Image src="https://images.unsplash.com/photo-1584735175315-9d58231317ba?auto=format&fit=crop&q=80&w=800" alt="Sneaker Detail" fill className="object-cover" referrerPolicy="no-referrer"/>
               </div>
               <div className="relative aspect-[4/5] rounded-2xl overflow-hidden">
-                <Image src="https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&q=80&w=800" alt="Sneaker Detail" fill className="object-cover" referrerPolicy="no-referrer"/>
+                <Image src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&q=80&w=800" alt="Sneaker Detail" fill className="object-cover" referrerPolicy="no-referrer"/>
               </div>
             </div>
           </div>

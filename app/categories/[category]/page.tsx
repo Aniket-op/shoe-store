@@ -25,7 +25,7 @@ export default function CategoryPage() {
     if (categoryName.includes("Jordan")) return "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&q=80&w=2000";
     if (categoryName.includes("Running")) return "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&q=80&w=2000";
     if (categoryName.includes("Basketball")) return "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&q=80&w=2000";
-    return "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&q=80&w=2000";
+    return "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&q=80&w=2000";
   };
 
   return (

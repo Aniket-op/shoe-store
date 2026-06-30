@@ -158,7 +158,7 @@ export default function Home() {
           </div>
           <div className="relative w-full md:w-1/2 aspect-[4/3] md:aspect-auto md:h-full">
              <Image
-                src="https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&q=80&w=1200"
+                src="https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&q=80&w=1200"
                 alt="Sneaker Collection"
                 fill
                 className="object-cover object-center"
