@@ -59,7 +59,7 @@ export const shoes: Shoe[] = [
     name: "Air Jordan 1 Retro High OG 'Chicago'",
     images: [
       "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?auto=format&fit=crop&q=80&w=1000",
-      "https://images.unsplash.com/photo-1552346154-21d32810baa3?auto=format&fit=crop&q=80&w=1000"
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&q=80&w=1000"
     ],
     category: "Air Jordan 1",
     price: 180,
@@ -106,7 +106,7 @@ export const shoes: Shoe[] = [
     id: "4",
     name: "Nike Dunk Low 'Panda'",
     images: [
-      "https://images.unsplash.com/photo-1628103138803-125c1507f794?auto=format&fit=crop&q=80&w=1000",
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?auto=format&fit=crop&q=80&w=1000",
       "https://images.unsplash.com/photo-1628103138927-4a0b22a012a6?auto=format&fit=crop&q=80&w=1000"
     ],
     category: "Dunk",
@@ -270,7 +270,7 @@ export const shoes: Shoe[] = [
     id: "12",
     name: "Nike SB Dunk Low 'Jarritos'",
     images: [
-      "https://images.unsplash.com/photo-1628103138803-125c1507f794?auto=format&fit=crop&q=80&w=1000"
+      "https://images.unsplash.com/photo-1605348532760-6753d2c43329?auto=format&fit=crop&q=80&w=1000"
     ],
     category: "Dunk",
     price: 130,
